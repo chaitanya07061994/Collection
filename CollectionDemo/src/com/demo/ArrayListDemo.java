@@ -11,7 +11,10 @@ public class ArrayListDemo {
 		
 		System.out.println(list);
 		
-
+                List <Integer> al = Arrays.asList(10,20,30,40,50);
+		
+		System.out.println(al);
+		
 	}
 
 }
